@@ -1,5 +1,5 @@
 # python-based-container
-A simple realization of container based on python
+A simple implementation of container based on python
 
 ## Usage
 ```bash
