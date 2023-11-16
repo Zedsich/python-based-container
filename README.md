@@ -14,7 +14,7 @@ You can check your `Cgroup version` by using the following command:
 $ sudo docker info
 ```
 
-You will find yours like `Cgroup Version: 1` or ` Cgroup Version: 2`
+You will find yours like `Cgroup Version: 1` or `Cgroup Version: 2`
 
 ## Acknowledgement
 Idea comes from @lizrice
